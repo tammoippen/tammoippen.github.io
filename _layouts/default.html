@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body class="page">
+
+    {% include navbar.html %}
+
+    <!-- Content -->
+    <main class="page-content">
+        {{ content }}
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

@@ -1,0 +1,40 @@
+title: tammo.io
+author: Tammo Ippen
+name: Tammo Ippen
+email: tammo.ippen@posteo.de
+
+description: >
+  This is the Web-Home of Tammo Ippen. I provide some information about
+  me and publish my CV and some posts, if time permits. At some point even
+  some of my photographies.
+
+excerpt_separator: <!--more-->
+
+markdown: kramdown
+highlighter: rouge
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+permalink:           /:categories/:year/:month/:day/:title.html
+paginate: 6
+paginate_path:       "blog/page:num"
+
+url: "http://tammo.io"
+twitter:
+  username: fiddler696
+
+social:
+  name: Tammo Ippen
+  links:
+    - https://twitter.com/fiddler696
+    - https://www.linkedin.com/in/tammo-ippen-208259149/
+    - https://github.com/tammoippen
+    - https://keybase.io/tammoippen
+
+sass:
+  style: compressed
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

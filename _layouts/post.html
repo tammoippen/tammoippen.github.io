@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<article itemscope itemtype="http://schema.org/BlogPosting">
+
+  <section class="section">
+    <div class="container">
+
+      <h1 class="title" itemprop="name headline">
+        <a href="{{ post.url | relative_url }}">
+          {{ page.title | escape }}
+        </a>
+      </h1>
+
+      • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <span itemprop="name">
+          {{ page.author | default: site.author | escape }}
+        </span>
+      </span>
+      |
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date: "%-d %b %Y" }}
+      </time>
+
+      <hr>
+
+      <div class="content">
+        {{ content }}
+      </div>
+
+    </div>
+  </section>
+
+</article>

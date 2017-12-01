@@ -1,0 +1,29 @@
+<!-- Navigation bar -->
+<nav class="navbar">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="{{site.url}}">
+        <h1 class="title">tammo.io</h1>
+      </a>
+      <span class="navbar-burger burger" onclick="document.querySelector('.navbar-menu').classList.toggle('is-active');">
+        <span></span>
+        <span></span>
+        <span></span>
+      </span>
+    </div>
+    <div class="navbar-menu has-text-centered">
+      <div class="navbar-end">
+        <a class="navbar-item" href="{{site.url}}/blog">
+          Blog
+        </a>
+        <a class="navbar-item" href="{{site.url}}/cv-ish">
+          CV-ish
+        </a>
+        <a class="navbar-item" href="{{site.url}}/about">
+          About
+        </a>
+        <a class="navbar-item" href="https://github.com/tammoippen"><i class="fa fa-github" aria-hidden="true" alt="Github"></i></a>
+      </div>
+    </div>
+  </div>
+</nav>
