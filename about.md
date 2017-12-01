@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+last_modified_at: 2017-12-01T22:00:00
 ---
 
 *Responsible for the content of this website:*

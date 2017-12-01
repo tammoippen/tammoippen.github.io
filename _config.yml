@@ -23,6 +23,7 @@ paginate_path:       "blog/page:num"
 url: "http://tammo.io"
 twitter:
   username: fiddler696
+  creator: fiddler696
 
 social:
   name: Tammo Ippen
@@ -38,3 +39,8 @@ sass:
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
