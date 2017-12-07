@@ -44,3 +44,4 @@ kramdown:
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+  - jemoji
