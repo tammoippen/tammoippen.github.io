@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV-ish
-last_modified_at: 2017-12-05T14:00:00
+last_modified_at: 2017-12-08T14:00:00
 ---
 
 <div class="timeline is-centered">
@@ -9,6 +9,38 @@ last_modified_at: 2017-12-05T14:00:00
   <header class="timeline-header">
     <span class="tag">Now</span>
   </header>
+
+  <div class="timeline-item">
+    <div class="timeline-marker is-icon">:couple_with_heart:</div>
+    <div class="timeline-content">
+      <p class="heading">25. Juli 2017</p>
+      <p>Married to Eleonora Ippen, formerly known as Meng!</p>
+    </div>
+  </div>  
+
+  <div class="timeline-item">
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <p class="heading">May 2017</p>
+      <p>Published paper <a href="https://www.frontiersin.org/articles/10.3389/fninf.2017.00030/full"><em>Constructing Neuronal Network Models in Massively Parallel Environments</em></a>. The paper discusses improvements to NEST regarding more efficient memory and compute power utilization during network construction in the realm of supercomputers.</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <p class="heading">Juli 2016</p>
+      <p>Stopped working at FZ Jülich and started working at the startup <a href="https://www.fedger.co/">fedger.io</a> as a software engineer. I am involved in REST-API design and development, data management and data science, machine learning, cloud computing ... those are exciting times.</p>
+    </div>
+  </div>  
+
+  <div class="timeline-item">
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <p class="heading">Juni 2016</p>
+      <p>Published paper <a href="https://arxiv.org/abs/1606.02882v1"><em>NESTML: a modeling language for spiking neurons</em></a>. Inga Blundell and Dimitri Plotnikov together took the lead on NESTML and present their advances.</p>
+    </div>
+  </div>  
 
   <div class="timeline-item">
     <div class="timeline-marker"></div>
@@ -38,7 +70,7 @@ last_modified_at: 2017-12-05T14:00:00
     <div class="timeline-marker"></div>
     <div class="timeline-content">
       <p class="heading">Febuary 2014</p>
-      <p>Achieved Master of Science <a href="https://www.rwth-aachen.de/">RWTH</a> Computer Science. Final Grade 1.3 (on a scale from 1 to 4, where 1 is the highest mark; is equivalent to GPA/ECTS = A). Master Thesis: <em><a href="/assets/pdfs/MA Tammo Ippen 20131217.pdf">NESTML – Creating a Neuron Modeling Language and Generating Efficient Code for the NEST Simulator with MontiCore</a></em>. The code is hosted at <a href="https://github.com/nest/nestml">Github</a>. TODO: Scan of Master Graduate</p>
+      <p><em>Master of Science RWTH Computer Science</em> Final Grade 1.3 (on a scale from 1 to 4, where 1 is the highest mark; is equivalent to GPA/ECTS = A). Master Thesis: <em><a href="/assets/pdfs/MA Tammo Ippen 20131217.pdf">NESTML – Creating a Neuron Modeling Language and Generating Efficient Code for the NEST Simulator with MontiCore</a></em>. The code is hosted at <a href="https://github.com/nest/nestml">Github</a>.</p>
     </div>
   </div>
 
@@ -62,7 +94,7 @@ last_modified_at: 2017-12-05T14:00:00
     <div class="timeline-marker"></div>
     <div class="timeline-content">
       <p class="heading">April 2011</p>
-      <p>Achieved Bachelor of Science <a href="http://www.rwth-aachen.de/">RWTH</a> Computer Science. Final Grade 2.0 (on a scale from 1 to 4, where 1 is the highest mark; is equivalent to a GPA/ECTS = B). Bachelor Thesis: <em><a href="/assets/pdfs/BA Tammo Ippen 20110327.pdf">Security Aspects And Performance Of A Production Ready Encryption System with Key Generated Operation Selection</a></em>. The code is hosted at <a href="https://github.com/tammoippen/KOOS">Github</a>. TODO: Scan of Bachelor Graduate</p>
+      <p><em>Bachelor of Science RWTH Computer Science</em> Final Grade 2.0 (on a scale from 1 to 4, where 1 is the highest mark; is equivalent to a GPA/ECTS = B). Bachelor Thesis: <em><a href="/assets/pdfs/BA Tammo Ippen 20110327.pdf">Security Aspects And Performance Of A Production Ready Encryption System with Key Generated Operation Selection</a></em>. The code is hosted at <a href="https://github.com/tammoippen/KOOS">Github</a>.</p>
     </div>
   </div>
 
@@ -119,7 +151,7 @@ last_modified_at: 2017-12-05T14:00:00
   </header> -->
 
   <div class="timeline-item">
-    <div class="timeline-marker"></div>
+    <div class="timeline-marker is-icon"><i class="fas fa-birthday-cake"></i></div>
     <div class="timeline-content">
         <p class="heading">01. September 1985</p>
         <p>Birth in Cologne, DE</p>

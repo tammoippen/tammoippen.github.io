@@ -42,3 +42,8 @@ hr {
 .footer {
     padding: 1rem 1.5rem 1rem;
 }
+
+.reverse {
+    unicode-bidi: bidi-override;
+    direction: rtl;
+}
