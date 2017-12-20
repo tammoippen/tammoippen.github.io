@@ -30,7 +30,7 @@ last_modified_at: 2017-12-08T14:00:00
     <div class="timeline-marker"></div>
     <div class="timeline-content">
       <p class="heading">Juli 2016</p>
-      <p>Stopped working at FZ Jülich and started working at the startup <a href="https://www.fedger.co/">fedger.io</a> as a software engineer. I am involved in REST-API design and development, data management and data science, machine learning, cloud computing ... those are exciting times.</p>
+      <p>Stopped working at FZ Jülich and started working at the startup <a href="https://www.fedger.co/">fedger</a> as a software engineer. I am involved in REST-API design and development, data management and data science, machine learning, cloud computing ... those are exciting times.</p>
     </div>
   </div>  
 
