@@ -1,2 +1,2 @@
-Sitemap: https://tammo.io/sitemap.xml
+Sitemap: http://tammo.io/sitemap.xml
 User-Agent: *
