@@ -11,6 +11,14 @@ last_modified_at: 2017-12-08T14:00:00
   </header>
 
   <div class="timeline-item">
+    <div class="timeline-marker is-icon">:baby:</div>
+    <div class="timeline-content">
+      <p class="heading">30. December 2017</p>
+      <p>Viola Ippen is born at 22:35!</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
     <div class="timeline-marker is-icon">:couple_with_heart:</div>
     <div class="timeline-content">
       <p class="heading">25. Juli 2017</p>
