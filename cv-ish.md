@@ -10,6 +10,14 @@ last_modified_at: 2017-12-08T14:00:00
     <span class="tag">Now</span>
   </header>
 
+<div class="timeline-item">
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <p class="heading">16. February 2018</p>
+      <p>Published paper <a href="https://www.frontiersin.org/articles/10.3389/fninf.2018.00002/full"><em>Extremely Scalable Spiking Neuronal Network Simulation Code: From Laptops to Exascale Computers</em></a>. The paper discusses improvements that make NEST ready for exascale computers.</p>
+    </div>
+  </div>
+
   <div class="timeline-item">
     <div class="timeline-marker is-icon">:baby:</div>
     <div class="timeline-content">
