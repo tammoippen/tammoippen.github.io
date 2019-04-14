@@ -8,8 +8,8 @@ last_modified_at: 2017-12-01T22:00:00
 
 Tammo Ippen<br/>
 Master of Science RWTH Informatik<br/>
-Zehntstr. 24<br/>
-51065 Cologne, Germany<br/>
+Schnellweider Str. 42<br/>
+51067 Cologne, Germany<br/>
 
 E-Mail: <spann class="reverse">ed.oetsop@neppi.ommat</spann><br/>
 Mobile: <span class="reverse">63525481 151 (0) 94+</span>
